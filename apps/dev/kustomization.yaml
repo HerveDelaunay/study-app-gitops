@@ -10,7 +10,7 @@ namespace: study-app
 namePrefix: dev-
 
 images:
-  - name: study-app-api
+  - name: ghcr.io/hervedelaunay/study-app-api
     newTag: backend-v0.2.1
-  - name: study-app-web
+  - name: ghcr.io/hervedelaunay/study-app-web
     newTag: frontend-v0.1.1
