@@ -10,4 +10,4 @@ images:
   - name: ghcr.io/hervedelaunay/study-app-api
     newTag: backend-v0.2.1
   - name: ghcr.io/hervedelaunay/study-app-web
-    newTag: frontend-v0.1.1
+    newTag: frontend-v0.1.5
